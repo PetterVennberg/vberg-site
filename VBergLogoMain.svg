@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="562.5"
+   viewBox="0 0 1000 562.5"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="VBergLogoMain.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1"
+     inkscape:cx="591.5"
+     inkscape:cy="374"
+     inkscape:window-width="1718"
+     inkscape:window-height="1360"
+     inkscape:window-x="-7"
+     inkscape:window-y="600"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:192px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000"
+       x="207.2459"
+       y="342.44272"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="207.2459"
+         y="342.44272"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:192px;font-family:Poppins;-inkscape-font-specification:'Poppins Light'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:'Poppins Semi-Bold'"
+   id="tspan3">V</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:Poppins"
+   id="tspan4">Berg</tspan></tspan></text>
+    <g
+       id="g2"
+       style="fill:#ff6600;stroke:#ff6600;stroke-opacity:1"
+       transform="translate(9,1)">
+      <circle
+         style="fill:#ff6600;stroke:#ff6600;stroke-opacity:1"
+         id="path1"
+         cx="359.5813"
+         cy="236.26801"
+         r="15" />
+      <circle
+         style="fill:#ff6600;stroke:#ff6600;stroke-opacity:1"
+         id="path1-8"
+         cx="359.5813"
+         cy="313.25"
+         r="15" />
+    </g>
+  </g>
+</svg>
