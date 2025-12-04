@@ -1,0 +1,38 @@
+/* Center everything full-screen */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #0d1117; /* GitHub dark background */
+}
+
+/* Ensure main behaves properly for all browsers */
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.logo {
+  width: 50vw;         /* default scaling */
+  max-width: 350px;    /* desktop max size */
+  height: auto;
+}
+
+/* Larger size for large desktop screens */
+@media (min-width: 1200px) {
+  .logo {
+    max-width: 450px;  /* make it bigger on desktops */
+  }
+}
+
+/* Smaller size for phones */
+@media (max-width: 500px) {
+  .logo {
+    width: 70vw;       /* take more width on tiny screens */
+    max-width: 250px;  /* but never too large */
+  }
+}
