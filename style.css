@@ -21,6 +21,7 @@ main {
   width: 50vw;         /* default scaling */
   max-width: 350px;    /* desktop max size */
   height: auto;
+  transform: translateY(-100px); /* move up 40px */
 }
 
 /* Larger size for large desktop screens */
