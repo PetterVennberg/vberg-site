@@ -6,7 +6,7 @@ body {
   height: 100dvh;
   margin: 0;
   background-color: #0d1117; /* GitHub dark background */
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 /* Ensure main behaves properly for all browsers */
