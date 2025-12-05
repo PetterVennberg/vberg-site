@@ -17,8 +17,8 @@ $file = "Logo.svg"
 $darkLayer  = "g13"
 $lightLayer = "g16"
 
-& "C:\Program Files\Inkscape\bin\inkscape.com" $file --export-type=png --export-page=1 --export-id=$darkLayer  --export-id-only --export-filename="LogoLight.png"
-& "C:\Program Files\Inkscape\bin\inkscape.com" $file --export-type=png --export-page=1 --export-id=$lightLayer --export-id-only --export-filename="LogoDark.png"
+& "C:\Program Files\Inkscape\bin\inkscape.com" $file --export-type=svg --export-page=1 --export-id=$darkLayer  --export-id-only --export-filename="LogoLight.svg"
+& "C:\Program Files\Inkscape\bin\inkscape.com" $file --export-type=svg --export-page=1 --export-id=$lightLayer --export-id-only --export-filename="LogoDark.svg"
 
 # -------------------------------
 # EXPORT PAGE 2 ICONS
