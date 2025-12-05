@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1.30331"
-     inkscape:cx="390.54409"
+     inkscape:cx="390.92771"
      inkscape:cy="301.53993"
      inkscape:window-width="1718"
      inkscape:window-height="1360"
      inkscape:window-x="0"
      inkscape:window-y="600"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g21"><inkscape:page
+     inkscape:current-layer="g13"><inkscape:page
        x="0"
        y="0"
        width="670"
@@ -50,7 +50,7 @@
      inkscape:groupmode="layer"
      id="g21"
      inkscape:label="IconLightBackground"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"><g
        id="g20"
        style="display:inline;fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-opacity:1"
@@ -72,7 +72,7 @@
      inkscape:groupmode="layer"
      id="g19"
      inkscape:label="IconDarkBackground"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"><g
        id="g18"
        style="display:inline;fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-opacity:1"
@@ -116,7 +116,7 @@
      inkscape:groupmode="layer"
      id="g16"
      inkscape:label="LightBackground"
-     style="display:none"
+     style="display:inline"
      transform="translate(-0.00559313,-0.00321594)"
      sodipodi:insensitive="true"><g
        id="g24"
@@ -158,7 +158,7 @@
      inkscape:groupmode="layer"
      id="g13"
      inkscape:label="DarkBackground"
-     style="display:none"
+     style="display:inline"
      transform="translate(-0.00559313,-0.00321594)"
      sodipodi:insensitive="true"><g
        id="g23"
