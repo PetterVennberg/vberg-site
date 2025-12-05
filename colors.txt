@@ -1,0 +1,3 @@
+Black: #1f1f1fff
+White: #ecececff
+Orange: #ff6600ff
